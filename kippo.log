@@ -1,0 +1,660 @@
+2018-03-12 09:17:54+0000 [HoneyPotTransport,188,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:54+0000 [HoneyPotTransport,188,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:54+0000 [HoneyPotTransport,188,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:54+0000 [HoneyPotTransport,188,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:54+0000 [HoneyPotTransport,188,192.168.221.144] NEW KEYS
+2018-03-12 09:17:54+0000 [HoneyPotTransport,188,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:54+0000 [SSHService ssh-userauth on HoneyPotTransport,188,192.168.221.144] 0000 trying auth none
+2018-03-12 09:17:54+0000 [SSHService ssh-userauth on HoneyPotTransport,188,192.168.221.144] 0000 trying auth keyboard-interactive
+2018-03-12 09:17:54+0000 [SSHService ssh-userauth on HoneyPotTransport,188,192.168.221.144] login attempt [0000/123456789] failed
+2018-03-12 09:17:54+0000 [SSHService ssh-userauth on HoneyPotTransport,188,192.168.221.144] 0000 failed auth keyboard-interactive
+2018-03-12 09:17:54+0000 [SSHService ssh-userauth on HoneyPotTransport,188,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:54+0000 [HoneyPotTransport,188,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:54+0000 [HoneyPotTransport,188,192.168.221.144] connection lost
+2018-03-12 09:17:54+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60532 (192.168.221.143:22) [session: 189]
+2018-03-12 09:17:54+0000 [HoneyPotTransport,189,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:54+0000 [HoneyPotTransport,189,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:54+0000 [HoneyPotTransport,189,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:54+0000 [HoneyPotTransport,189,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:55+0000 [HoneyPotTransport,189,192.168.221.144] NEW KEYS
+2018-03-12 09:17:55+0000 [HoneyPotTransport,189,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,189,192.168.221.144] 0000 trying auth none
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,189,192.168.221.144] 0000 trying auth keyboard-interactive
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,189,192.168.221.144] login attempt [0000/00000000] failed
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,189,192.168.221.144] 0000 failed auth keyboard-interactive
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,189,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:55+0000 [HoneyPotTransport,189,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:55+0000 [HoneyPotTransport,189,192.168.221.144] connection lost
+2018-03-12 09:17:55+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60534 (192.168.221.143:22) [session: 190]
+2018-03-12 09:17:55+0000 [HoneyPotTransport,190,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:55+0000 [HoneyPotTransport,190,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:55+0000 [HoneyPotTransport,190,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:55+0000 [HoneyPotTransport,190,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:55+0000 [HoneyPotTransport,190,192.168.221.144] NEW KEYS
+2018-03-12 09:17:55+0000 [HoneyPotTransport,190,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,190,192.168.221.144] 0000 trying auth none
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,190,192.168.221.144] 0000 trying auth keyboard-interactive
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,190,192.168.221.144] login attempt [0000/0000] failed
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,190,192.168.221.144] 0000 failed auth keyboard-interactive
+2018-03-12 09:17:55+0000 [SSHService ssh-userauth on HoneyPotTransport,190,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:55+0000 [HoneyPotTransport,190,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:55+0000 [HoneyPotTransport,190,192.168.221.144] connection lost
+2018-03-12 09:17:55+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60536 (192.168.221.143:22) [session: 191]
+2018-03-12 09:17:55+0000 [HoneyPotTransport,191,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:55+0000 [HoneyPotTransport,191,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:55+0000 [HoneyPotTransport,191,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:55+0000 [HoneyPotTransport,191,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:56+0000 [HoneyPotTransport,191,192.168.221.144] NEW KEYS
+2018-03-12 09:17:56+0000 [HoneyPotTransport,191,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,191,192.168.221.144] 0000 trying auth none
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,191,192.168.221.144] 0000 trying auth keyboard-interactive
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,191,192.168.221.144] login attempt [0000/password] failed
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,191,192.168.221.144] 0000 failed auth keyboard-interactive
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,191,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:56+0000 [HoneyPotTransport,191,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:56+0000 [HoneyPotTransport,191,192.168.221.144] connection lost
+2018-03-12 09:17:56+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60538 (192.168.221.143:22) [session: 192]
+2018-03-12 09:17:56+0000 [HoneyPotTransport,192,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:56+0000 [HoneyPotTransport,192,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:56+0000 [HoneyPotTransport,192,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:56+0000 [HoneyPotTransport,192,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:56+0000 [HoneyPotTransport,192,192.168.221.144] NEW KEYS
+2018-03-12 09:17:56+0000 [HoneyPotTransport,192,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,192,192.168.221.144] 0000 trying auth none
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,192,192.168.221.144] 0000 trying auth keyboard-interactive
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,192,192.168.221.144] login attempt [0000/Pa$$w0rd] failed
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,192,192.168.221.144] 0000 failed auth keyboard-interactive
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,192,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:56+0000 [HoneyPotTransport,192,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:56+0000 [HoneyPotTransport,192,192.168.221.144] connection lost
+2018-03-12 09:17:56+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60540 (192.168.221.143:22) [session: 193]
+2018-03-12 09:17:56+0000 [HoneyPotTransport,193,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:56+0000 [HoneyPotTransport,193,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:56+0000 [HoneyPotTransport,193,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:56+0000 [HoneyPotTransport,193,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:56+0000 [HoneyPotTransport,193,192.168.221.144] NEW KEYS
+2018-03-12 09:17:56+0000 [HoneyPotTransport,193,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,193,192.168.221.144] 0000 trying auth none
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,193,192.168.221.144] 0000 trying auth keyboard-interactive
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,193,192.168.221.144] login attempt [0000/mickey] failed
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,193,192.168.221.144] 0000 failed auth keyboard-interactive
+2018-03-12 09:17:56+0000 [SSHService ssh-userauth on HoneyPotTransport,193,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:56+0000 [HoneyPotTransport,193,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:56+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60542 (192.168.221.143:22) [session: 194]
+2018-03-12 09:17:56+0000 [HoneyPotTransport,193,192.168.221.144] connection lost
+2018-03-12 09:17:56+0000 [HoneyPotTransport,194,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:56+0000 [HoneyPotTransport,194,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:56+0000 [HoneyPotTransport,194,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:56+0000 [HoneyPotTransport,194,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:57+0000 [HoneyPotTransport,194,192.168.221.144] NEW KEYS
+2018-03-12 09:17:57+0000 [HoneyPotTransport,194,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,194,192.168.221.144] password trying auth none
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,194,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,194,192.168.221.144] login attempt [password/root] failed
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,194,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,194,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:57+0000 [HoneyPotTransport,194,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:57+0000 [HoneyPotTransport,194,192.168.221.144] connection lost
+2018-03-12 09:17:57+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60544 (192.168.221.143:22) [session: 195]
+2018-03-12 09:17:57+0000 [HoneyPotTransport,195,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:57+0000 [HoneyPotTransport,195,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:57+0000 [HoneyPotTransport,195,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:57+0000 [HoneyPotTransport,195,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:57+0000 [HoneyPotTransport,195,192.168.221.144] NEW KEYS
+2018-03-12 09:17:57+0000 [HoneyPotTransport,195,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,195,192.168.221.144] password trying auth none
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,195,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,195,192.168.221.144] login attempt [password/123456] failed
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,195,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,195,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:57+0000 [HoneyPotTransport,195,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:57+0000 [HoneyPotTransport,195,192.168.221.144] connection lost
+2018-03-12 09:17:57+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60546 (192.168.221.143:22) [session: 196]
+2018-03-12 09:17:57+0000 [HoneyPotTransport,196,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:57+0000 [HoneyPotTransport,196,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:57+0000 [HoneyPotTransport,196,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:57+0000 [HoneyPotTransport,196,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:57+0000 [HoneyPotTransport,196,192.168.221.144] NEW KEYS
+2018-03-12 09:17:57+0000 [HoneyPotTransport,196,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,196,192.168.221.144] password trying auth none
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,196,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,196,192.168.221.144] login attempt [password/primatec] failed
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,196,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:57+0000 [SSHService ssh-userauth on HoneyPotTransport,196,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:57+0000 [HoneyPotTransport,196,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:57+0000 [HoneyPotTransport,196,192.168.221.144] connection lost
+2018-03-12 09:17:57+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60548 (192.168.221.143:22) [session: 197]
+2018-03-12 09:17:57+0000 [HoneyPotTransport,197,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:58+0000 [HoneyPotTransport,197,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:58+0000 [HoneyPotTransport,197,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:58+0000 [HoneyPotTransport,197,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:58+0000 [HoneyPotTransport,197,192.168.221.144] NEW KEYS
+2018-03-12 09:17:58+0000 [HoneyPotTransport,197,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,197,192.168.221.144] password trying auth none
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,197,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,197,192.168.221.144] login attempt [password/technica] failed
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,197,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,197,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:58+0000 [HoneyPotTransport,197,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:58+0000 [HoneyPotTransport,197,192.168.221.144] connection lost
+2018-03-12 09:17:58+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60550 (192.168.221.143:22) [session: 198]
+2018-03-12 09:17:58+0000 [HoneyPotTransport,198,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:58+0000 [HoneyPotTransport,198,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:58+0000 [HoneyPotTransport,198,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:58+0000 [HoneyPotTransport,198,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:58+0000 [HoneyPotTransport,198,192.168.221.144] NEW KEYS
+2018-03-12 09:17:58+0000 [HoneyPotTransport,198,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,198,192.168.221.144] password trying auth none
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,198,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,198,192.168.221.144] login attempt [password/heni] failed
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,198,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,198,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:58+0000 [HoneyPotTransport,198,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:58+0000 [HoneyPotTransport,198,192.168.221.144] connection lost
+2018-03-12 09:17:58+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60552 (192.168.221.143:22) [session: 199]
+2018-03-12 09:17:58+0000 [HoneyPotTransport,199,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:58+0000 [HoneyPotTransport,199,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:58+0000 [HoneyPotTransport,199,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:58+0000 [HoneyPotTransport,199,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:58+0000 [HoneyPotTransport,199,192.168.221.144] NEW KEYS
+2018-03-12 09:17:58+0000 [HoneyPotTransport,199,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,199,192.168.221.144] password trying auth none
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,199,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,199,192.168.221.144] login attempt [password/abida] failed
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,199,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:58+0000 [SSHService ssh-userauth on HoneyPotTransport,199,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:58+0000 [HoneyPotTransport,199,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:58+0000 [HoneyPotTransport,199,192.168.221.144] connection lost
+2018-03-12 09:17:58+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60554 (192.168.221.143:22) [session: 200]
+2018-03-12 09:17:59+0000 [HoneyPotTransport,200,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:59+0000 [HoneyPotTransport,200,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:59+0000 [HoneyPotTransport,200,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:59+0000 [HoneyPotTransport,200,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:59+0000 [HoneyPotTransport,200,192.168.221.144] NEW KEYS
+2018-03-12 09:17:59+0000 [HoneyPotTransport,200,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,200,192.168.221.144] password trying auth none
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,200,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,200,192.168.221.144] login attempt [password/123456789] failed
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,200,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,200,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:59+0000 [HoneyPotTransport,200,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:59+0000 [HoneyPotTransport,200,192.168.221.144] connection lost
+2018-03-12 09:17:59+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60556 (192.168.221.143:22) [session: 201]
+2018-03-12 09:17:59+0000 [HoneyPotTransport,201,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:59+0000 [HoneyPotTransport,201,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:59+0000 [HoneyPotTransport,201,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:59+0000 [HoneyPotTransport,201,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:59+0000 [HoneyPotTransport,201,192.168.221.144] NEW KEYS
+2018-03-12 09:17:59+0000 [HoneyPotTransport,201,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,201,192.168.221.144] password trying auth none
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,201,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,201,192.168.221.144] login attempt [password/00000000] failed
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,201,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,201,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:59+0000 [HoneyPotTransport,201,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:59+0000 [HoneyPotTransport,201,192.168.221.144] connection lost
+2018-03-12 09:17:59+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60558 (192.168.221.143:22) [session: 202]
+2018-03-12 09:17:59+0000 [HoneyPotTransport,202,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:17:59+0000 [HoneyPotTransport,202,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:17:59+0000 [HoneyPotTransport,202,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:59+0000 [HoneyPotTransport,202,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:17:59+0000 [HoneyPotTransport,202,192.168.221.144] NEW KEYS
+2018-03-12 09:17:59+0000 [HoneyPotTransport,202,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,202,192.168.221.144] password trying auth none
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,202,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,202,192.168.221.144] login attempt [password/0000] failed
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,202,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:17:59+0000 [SSHService ssh-userauth on HoneyPotTransport,202,192.168.221.144] unauthorized login: 
+2018-03-12 09:17:59+0000 [HoneyPotTransport,202,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:17:59+0000 [HoneyPotTransport,202,192.168.221.144] connection lost
+2018-03-12 09:17:59+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60560 (192.168.221.143:22) [session: 203]
+2018-03-12 09:18:00+0000 [HoneyPotTransport,203,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:00+0000 [HoneyPotTransport,203,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:00+0000 [HoneyPotTransport,203,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,203,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,203,192.168.221.144] NEW KEYS
+2018-03-12 09:18:00+0000 [HoneyPotTransport,203,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,203,192.168.221.144] password trying auth none
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,203,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,203,192.168.221.144] login attempt [password/password] failed
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,203,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,203,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:00+0000 [HoneyPotTransport,203,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:00+0000 [HoneyPotTransport,203,192.168.221.144] connection lost
+2018-03-12 09:18:00+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60562 (192.168.221.143:22) [session: 204]
+2018-03-12 09:18:00+0000 [HoneyPotTransport,204,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:00+0000 [HoneyPotTransport,204,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:00+0000 [HoneyPotTransport,204,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,204,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,204,192.168.221.144] NEW KEYS
+2018-03-12 09:18:00+0000 [HoneyPotTransport,204,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,204,192.168.221.144] password trying auth none
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,204,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,204,192.168.221.144] login attempt [password/Pa$$w0rd] failed
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,204,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,204,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:00+0000 [HoneyPotTransport,204,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:00+0000 [HoneyPotTransport,204,192.168.221.144] connection lost
+2018-03-12 09:18:00+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60564 (192.168.221.143:22) [session: 205]
+2018-03-12 09:18:00+0000 [HoneyPotTransport,205,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:00+0000 [HoneyPotTransport,205,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:00+0000 [HoneyPotTransport,205,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,205,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,205,192.168.221.144] NEW KEYS
+2018-03-12 09:18:00+0000 [HoneyPotTransport,205,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,205,192.168.221.144] password trying auth none
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,205,192.168.221.144] password trying auth keyboard-interactive
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,205,192.168.221.144] login attempt [password/mickey] failed
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,205,192.168.221.144] password failed auth keyboard-interactive
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,205,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:00+0000 [HoneyPotTransport,205,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:00+0000 [HoneyPotTransport,205,192.168.221.144] connection lost
+2018-03-12 09:18:00+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60566 (192.168.221.143:22) [session: 206]
+2018-03-12 09:18:00+0000 [HoneyPotTransport,206,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:00+0000 [HoneyPotTransport,206,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:00+0000 [HoneyPotTransport,206,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,206,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,206,192.168.221.144] NEW KEYS
+2018-03-12 09:18:00+0000 [HoneyPotTransport,206,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,206,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,206,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,206,192.168.221.144] login attempt [Pa$$w0rd/root] failed
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,206,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:00+0000 [SSHService ssh-userauth on HoneyPotTransport,206,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:00+0000 [HoneyPotTransport,206,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:00+0000 [HoneyPotTransport,206,192.168.221.144] connection lost
+2018-03-12 09:18:00+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60568 (192.168.221.143:22) [session: 207]
+2018-03-12 09:18:00+0000 [HoneyPotTransport,207,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:00+0000 [HoneyPotTransport,207,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:00+0000 [HoneyPotTransport,207,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:00+0000 [HoneyPotTransport,207,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:01+0000 [HoneyPotTransport,207,192.168.221.144] NEW KEYS
+2018-03-12 09:18:01+0000 [HoneyPotTransport,207,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,207,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,207,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,207,192.168.221.144] login attempt [Pa$$w0rd/123456] failed
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,207,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,207,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:01+0000 [HoneyPotTransport,207,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:01+0000 [HoneyPotTransport,207,192.168.221.144] connection lost
+2018-03-12 09:18:01+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60570 (192.168.221.143:22) [session: 208]
+2018-03-12 09:18:01+0000 [HoneyPotTransport,208,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:01+0000 [HoneyPotTransport,208,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:01+0000 [HoneyPotTransport,208,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:01+0000 [HoneyPotTransport,208,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:01+0000 [HoneyPotTransport,208,192.168.221.144] NEW KEYS
+2018-03-12 09:18:01+0000 [HoneyPotTransport,208,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,208,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,208,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,208,192.168.221.144] login attempt [Pa$$w0rd/primatec] failed
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,208,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,208,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:01+0000 [HoneyPotTransport,208,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:01+0000 [HoneyPotTransport,208,192.168.221.144] connection lost
+2018-03-12 09:18:01+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60572 (192.168.221.143:22) [session: 209]
+2018-03-12 09:18:01+0000 [HoneyPotTransport,209,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:01+0000 [HoneyPotTransport,209,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:01+0000 [HoneyPotTransport,209,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:01+0000 [HoneyPotTransport,209,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:01+0000 [HoneyPotTransport,209,192.168.221.144] NEW KEYS
+2018-03-12 09:18:01+0000 [HoneyPotTransport,209,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,209,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,209,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,209,192.168.221.144] login attempt [Pa$$w0rd/technica] failed
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,209,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:01+0000 [SSHService ssh-userauth on HoneyPotTransport,209,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:01+0000 [HoneyPotTransport,209,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:01+0000 [HoneyPotTransport,209,192.168.221.144] connection lost
+2018-03-12 09:18:01+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60574 (192.168.221.143:22) [session: 210]
+2018-03-12 09:18:01+0000 [HoneyPotTransport,210,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:01+0000 [HoneyPotTransport,210,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:01+0000 [HoneyPotTransport,210,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:01+0000 [HoneyPotTransport,210,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:02+0000 [HoneyPotTransport,210,192.168.221.144] NEW KEYS
+2018-03-12 09:18:02+0000 [HoneyPotTransport,210,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,210,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,210,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,210,192.168.221.144] login attempt [Pa$$w0rd/heni] failed
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,210,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,210,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:02+0000 [HoneyPotTransport,210,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:02+0000 [HoneyPotTransport,210,192.168.221.144] connection lost
+2018-03-12 09:18:02+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60576 (192.168.221.143:22) [session: 211]
+2018-03-12 09:18:02+0000 [HoneyPotTransport,211,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:02+0000 [HoneyPotTransport,211,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:02+0000 [HoneyPotTransport,211,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:02+0000 [HoneyPotTransport,211,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:02+0000 [HoneyPotTransport,211,192.168.221.144] NEW KEYS
+2018-03-12 09:18:02+0000 [HoneyPotTransport,211,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,211,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,211,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,211,192.168.221.144] login attempt [Pa$$w0rd/abida] failed
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,211,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:02+0000 [SSHService ssh-userauth on HoneyPotTransport,211,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:02+0000 [HoneyPotTransport,211,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:02+0000 [HoneyPotTransport,211,192.168.221.144] connection lost
+2018-03-12 09:18:02+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60578 (192.168.221.143:22) [session: 212]
+2018-03-12 09:18:02+0000 [HoneyPotTransport,212,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:02+0000 [HoneyPotTransport,212,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:02+0000 [HoneyPotTransport,212,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:02+0000 [HoneyPotTransport,212,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,212,192.168.221.144] NEW KEYS
+2018-03-12 09:18:03+0000 [HoneyPotTransport,212,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,212,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,212,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,212,192.168.221.144] login attempt [Pa$$w0rd/123456789] failed
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,212,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,212,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,212,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,212,192.168.221.144] connection lost
+2018-03-12 09:18:03+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60580 (192.168.221.143:22) [session: 213]
+2018-03-12 09:18:03+0000 [HoneyPotTransport,213,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:03+0000 [HoneyPotTransport,213,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:03+0000 [HoneyPotTransport,213,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,213,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,213,192.168.221.144] NEW KEYS
+2018-03-12 09:18:03+0000 [HoneyPotTransport,213,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,213,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,213,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,213,192.168.221.144] login attempt [Pa$$w0rd/00000000] failed
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,213,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,213,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,213,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,213,192.168.221.144] connection lost
+2018-03-12 09:18:03+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60582 (192.168.221.143:22) [session: 214]
+2018-03-12 09:18:03+0000 [HoneyPotTransport,214,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:03+0000 [HoneyPotTransport,214,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:03+0000 [HoneyPotTransport,214,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,214,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,214,192.168.221.144] NEW KEYS
+2018-03-12 09:18:03+0000 [HoneyPotTransport,214,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,214,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,214,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,214,192.168.221.144] login attempt [Pa$$w0rd/0000] failed
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,214,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,214,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,214,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,214,192.168.221.144] connection lost
+2018-03-12 09:18:03+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60584 (192.168.221.143:22) [session: 215]
+2018-03-12 09:18:03+0000 [HoneyPotTransport,215,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:03+0000 [HoneyPotTransport,215,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:03+0000 [HoneyPotTransport,215,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,215,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,215,192.168.221.144] NEW KEYS
+2018-03-12 09:18:03+0000 [HoneyPotTransport,215,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,215,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,215,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,215,192.168.221.144] login attempt [Pa$$w0rd/password] failed
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,215,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,215,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,215,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,215,192.168.221.144] connection lost
+2018-03-12 09:18:03+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60586 (192.168.221.143:22) [session: 216]
+2018-03-12 09:18:03+0000 [HoneyPotTransport,216,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:03+0000 [HoneyPotTransport,216,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:03+0000 [HoneyPotTransport,216,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,216,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,216,192.168.221.144] NEW KEYS
+2018-03-12 09:18:03+0000 [HoneyPotTransport,216,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,216,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,216,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,216,192.168.221.144] login attempt [Pa$$w0rd/Pa$$w0rd] failed
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,216,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:03+0000 [SSHService ssh-userauth on HoneyPotTransport,216,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,216,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:03+0000 [HoneyPotTransport,216,192.168.221.144] connection lost
+2018-03-12 09:18:03+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60588 (192.168.221.143:22) [session: 217]
+2018-03-12 09:18:03+0000 [HoneyPotTransport,217,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:03+0000 [HoneyPotTransport,217,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:03+0000 [HoneyPotTransport,217,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:03+0000 [HoneyPotTransport,217,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:04+0000 [HoneyPotTransport,217,192.168.221.144] NEW KEYS
+2018-03-12 09:18:04+0000 [HoneyPotTransport,217,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,217,192.168.221.144] Pa$$w0rd trying auth none
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,217,192.168.221.144] Pa$$w0rd trying auth keyboard-interactive
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,217,192.168.221.144] login attempt [Pa$$w0rd/mickey] failed
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,217,192.168.221.144] Pa$$w0rd failed auth keyboard-interactive
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,217,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:04+0000 [HoneyPotTransport,217,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:04+0000 [HoneyPotTransport,217,192.168.221.144] connection lost
+2018-03-12 09:18:04+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60590 (192.168.221.143:22) [session: 218]
+2018-03-12 09:18:04+0000 [HoneyPotTransport,218,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:04+0000 [HoneyPotTransport,218,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:04+0000 [HoneyPotTransport,218,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:04+0000 [HoneyPotTransport,218,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:04+0000 [HoneyPotTransport,218,192.168.221.144] NEW KEYS
+2018-03-12 09:18:04+0000 [HoneyPotTransport,218,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,218,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,218,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,218,192.168.221.144] login attempt [mickey/root] failed
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,218,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,218,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:04+0000 [HoneyPotTransport,218,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:04+0000 [HoneyPotTransport,218,192.168.221.144] connection lost
+2018-03-12 09:18:04+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60592 (192.168.221.143:22) [session: 219]
+2018-03-12 09:18:04+0000 [HoneyPotTransport,219,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:04+0000 [HoneyPotTransport,219,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:04+0000 [HoneyPotTransport,219,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:04+0000 [HoneyPotTransport,219,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:04+0000 [HoneyPotTransport,219,192.168.221.144] NEW KEYS
+2018-03-12 09:18:04+0000 [HoneyPotTransport,219,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,219,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,219,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,219,192.168.221.144] login attempt [mickey/123456] failed
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,219,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,219,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:04+0000 [HoneyPotTransport,219,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:04+0000 [HoneyPotTransport,219,192.168.221.144] connection lost
+2018-03-12 09:18:04+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60594 (192.168.221.143:22) [session: 220]
+2018-03-12 09:18:04+0000 [HoneyPotTransport,220,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:04+0000 [HoneyPotTransport,220,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:04+0000 [HoneyPotTransport,220,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:04+0000 [HoneyPotTransport,220,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:04+0000 [HoneyPotTransport,220,192.168.221.144] NEW KEYS
+2018-03-12 09:18:04+0000 [HoneyPotTransport,220,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,220,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,220,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,220,192.168.221.144] login attempt [mickey/primatec] failed
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,220,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:04+0000 [SSHService ssh-userauth on HoneyPotTransport,220,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:04+0000 [HoneyPotTransport,220,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:04+0000 [HoneyPotTransport,220,192.168.221.144] connection lost
+2018-03-12 09:18:04+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60596 (192.168.221.143:22) [session: 221]
+2018-03-12 09:18:04+0000 [HoneyPotTransport,221,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:04+0000 [HoneyPotTransport,221,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:04+0000 [HoneyPotTransport,221,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:04+0000 [HoneyPotTransport,221,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:05+0000 [HoneyPotTransport,221,192.168.221.144] NEW KEYS
+2018-03-12 09:18:05+0000 [HoneyPotTransport,221,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,221,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,221,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,221,192.168.221.144] login attempt [mickey/technica] failed
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,221,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,221,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:05+0000 [HoneyPotTransport,221,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:05+0000 [HoneyPotTransport,221,192.168.221.144] connection lost
+2018-03-12 09:18:05+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60598 (192.168.221.143:22) [session: 222]
+2018-03-12 09:18:05+0000 [HoneyPotTransport,222,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:05+0000 [HoneyPotTransport,222,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:05+0000 [HoneyPotTransport,222,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:05+0000 [HoneyPotTransport,222,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:05+0000 [HoneyPotTransport,222,192.168.221.144] NEW KEYS
+2018-03-12 09:18:05+0000 [HoneyPotTransport,222,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,222,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,222,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,222,192.168.221.144] login attempt [mickey/heni] failed
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,222,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,222,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:05+0000 [HoneyPotTransport,222,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:05+0000 [HoneyPotTransport,222,192.168.221.144] connection lost
+2018-03-12 09:18:05+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60600 (192.168.221.143:22) [session: 223]
+2018-03-12 09:18:05+0000 [HoneyPotTransport,223,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:05+0000 [HoneyPotTransport,223,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:05+0000 [HoneyPotTransport,223,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:05+0000 [HoneyPotTransport,223,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:05+0000 [HoneyPotTransport,223,192.168.221.144] NEW KEYS
+2018-03-12 09:18:05+0000 [HoneyPotTransport,223,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,223,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,223,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,223,192.168.221.144] login attempt [mickey/abida] failed
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,223,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,223,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:05+0000 [HoneyPotTransport,223,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:05+0000 [HoneyPotTransport,223,192.168.221.144] connection lost
+2018-03-12 09:18:05+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60602 (192.168.221.143:22) [session: 224]
+2018-03-12 09:18:05+0000 [HoneyPotTransport,224,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:05+0000 [HoneyPotTransport,224,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:05+0000 [HoneyPotTransport,224,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:05+0000 [HoneyPotTransport,224,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:05+0000 [HoneyPotTransport,224,192.168.221.144] NEW KEYS
+2018-03-12 09:18:05+0000 [HoneyPotTransport,224,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,224,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,224,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,224,192.168.221.144] login attempt [mickey/123456789] failed
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,224,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:05+0000 [SSHService ssh-userauth on HoneyPotTransport,224,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:05+0000 [HoneyPotTransport,224,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:05+0000 [HoneyPotTransport,224,192.168.221.144] connection lost
+2018-03-12 09:18:05+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60604 (192.168.221.143:22) [session: 225]
+2018-03-12 09:18:05+0000 [HoneyPotTransport,225,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:05+0000 [HoneyPotTransport,225,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:05+0000 [HoneyPotTransport,225,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:05+0000 [HoneyPotTransport,225,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:06+0000 [HoneyPotTransport,225,192.168.221.144] NEW KEYS
+2018-03-12 09:18:06+0000 [HoneyPotTransport,225,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,225,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,225,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,225,192.168.221.144] login attempt [mickey/00000000] failed
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,225,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,225,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:06+0000 [HoneyPotTransport,225,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:06+0000 [HoneyPotTransport,225,192.168.221.144] connection lost
+2018-03-12 09:18:06+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60606 (192.168.221.143:22) [session: 226]
+2018-03-12 09:18:06+0000 [HoneyPotTransport,226,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:06+0000 [HoneyPotTransport,226,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:06+0000 [HoneyPotTransport,226,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:06+0000 [HoneyPotTransport,226,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:06+0000 [HoneyPotTransport,226,192.168.221.144] NEW KEYS
+2018-03-12 09:18:06+0000 [HoneyPotTransport,226,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,226,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,226,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,226,192.168.221.144] login attempt [mickey/0000] failed
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,226,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,226,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:06+0000 [HoneyPotTransport,226,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:06+0000 [HoneyPotTransport,226,192.168.221.144] connection lost
+2018-03-12 09:18:06+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60608 (192.168.221.143:22) [session: 227]
+2018-03-12 09:18:06+0000 [HoneyPotTransport,227,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:06+0000 [HoneyPotTransport,227,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:06+0000 [HoneyPotTransport,227,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:06+0000 [HoneyPotTransport,227,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:06+0000 [HoneyPotTransport,227,192.168.221.144] NEW KEYS
+2018-03-12 09:18:06+0000 [HoneyPotTransport,227,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,227,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,227,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,227,192.168.221.144] login attempt [mickey/password] failed
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,227,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,227,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:06+0000 [HoneyPotTransport,227,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:06+0000 [HoneyPotTransport,227,192.168.221.144] connection lost
+2018-03-12 09:18:06+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60610 (192.168.221.143:22) [session: 228]
+2018-03-12 09:18:06+0000 [HoneyPotTransport,228,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:06+0000 [HoneyPotTransport,228,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:06+0000 [HoneyPotTransport,228,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:06+0000 [HoneyPotTransport,228,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:06+0000 [HoneyPotTransport,228,192.168.221.144] NEW KEYS
+2018-03-12 09:18:06+0000 [HoneyPotTransport,228,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,228,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,228,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,228,192.168.221.144] login attempt [mickey/Pa$$w0rd] failed
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,228,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:06+0000 [SSHService ssh-userauth on HoneyPotTransport,228,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:06+0000 [HoneyPotTransport,228,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:06+0000 [HoneyPotTransport,228,192.168.221.144] connection lost
+2018-03-12 09:18:06+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.144:60612 (192.168.221.143:22) [session: 229]
+2018-03-12 09:18:06+0000 [HoneyPotTransport,229,192.168.221.144] Remote SSH version: SSH-2.0-MEDUSA_1.0
+2018-03-12 09:18:06+0000 [HoneyPotTransport,229,192.168.221.144] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 09:18:06+0000 [HoneyPotTransport,229,192.168.221.144] outgoing: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:06+0000 [HoneyPotTransport,229,192.168.221.144] incoming: aes128-ctr hmac-sha1 none
+2018-03-12 09:18:07+0000 [HoneyPotTransport,229,192.168.221.144] NEW KEYS
+2018-03-12 09:18:07+0000 [HoneyPotTransport,229,192.168.221.144] starting service ssh-userauth
+2018-03-12 09:18:07+0000 [SSHService ssh-userauth on HoneyPotTransport,229,192.168.221.144] mickey trying auth none
+2018-03-12 09:18:07+0000 [SSHService ssh-userauth on HoneyPotTransport,229,192.168.221.144] mickey trying auth keyboard-interactive
+2018-03-12 09:18:07+0000 [SSHService ssh-userauth on HoneyPotTransport,229,192.168.221.144] login attempt [mickey/mickey] failed
+2018-03-12 09:18:07+0000 [SSHService ssh-userauth on HoneyPotTransport,229,192.168.221.144] mickey failed auth keyboard-interactive
+2018-03-12 09:18:07+0000 [SSHService ssh-userauth on HoneyPotTransport,229,192.168.221.144] unauthorized login: 
+2018-03-12 09:18:07+0000 [HoneyPotTransport,229,192.168.221.144] Got remote error, code 11
+	reason: 
+2018-03-12 09:18:07+0000 [HoneyPotTransport,229,192.168.221.144] connection lost
+2018-03-12 11:08:13+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 192.168.221.1:30523 (192.168.221.143:22) [session: 230]
+2018-03-12 11:08:13+0000 [HoneyPotTransport,230,192.168.221.1] Remote SSH version: SSH-2.0-PuTTY_Release_0.70
+2018-03-12 11:08:13+0000 [HoneyPotTransport,230,192.168.221.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2018-03-12 11:08:13+0000 [HoneyPotTransport,230,192.168.221.1] outgoing: aes256-ctr hmac-sha1 none
+2018-03-12 11:08:13+0000 [HoneyPotTransport,230,192.168.221.1] incoming: aes256-ctr hmac-sha1 none
+2018-03-12 11:08:15+0000 [HoneyPotTransport,230,192.168.221.1] NEW KEYS
+2018-03-12 11:08:15+0000 [HoneyPotTransport,230,192.168.221.1] starting service ssh-userauth
+2018-03-12 11:08:17+0000 [SSHService ssh-userauth on HoneyPotTransport,230,192.168.221.1] root trying auth none
+2018-03-12 11:08:17+0000 [SSHService ssh-userauth on HoneyPotTransport,230,192.168.221.1] root trying auth keyboard-interactive
+2018-03-12 11:08:18+0000 [SSHService ssh-userauth on HoneyPotTransport,230,192.168.221.1] login attempt [root/root] succeeded
+2018-03-12 11:08:18+0000 [SSHService ssh-userauth on HoneyPotTransport,230,192.168.221.1] root authenticated with keyboard-interactive
+2018-03-12 11:08:18+0000 [SSHService ssh-userauth on HoneyPotTransport,230,192.168.221.1] starting service ssh-connection
+2018-03-12 11:08:18+0000 [SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] got channel session request
+2018-03-12 11:08:18+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] channel open
+2018-03-12 11:08:18+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] pty request: xterm (24, 80, 0, 0)
+2018-03-12 11:08:18+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] Terminal size: 24 80
+2018-03-12 11:08:18+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] getting shell
+2018-03-12 11:08:18+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] Opening TTY log: log/tty/20180312-110818-1611.log
+2018-03-12 11:08:20+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] /etc/motd resolved into /etc/motd
+2018-03-12 11:08:21+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] CMD: cd /
+2018-03-12 11:08:21+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] Command found: cd /
+2018-03-12 11:08:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] CMD: ls
+2018-03-12 11:08:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] Command found: ls
+2018-03-12 11:08:32+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] CMD: cd usr
+2018-03-12 11:08:32+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] Command found: cd usr
+2018-03-12 11:08:33+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] CMD: ls
+2018-03-12 11:08:33+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] Command found: ls
+2018-03-12 11:08:37+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] CMD: cd games
+2018-03-12 11:08:37+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] Command found: cd games
+2018-03-12 11:08:38+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] CMD: ls
+2018-03-12 11:08:38+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,230,192.168.221.1] Command found: ls
